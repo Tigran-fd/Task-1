@@ -1,1 +1,2 @@
-# Task-1
+Freedom Astronomy practical tasks repository.
+completed first task.
