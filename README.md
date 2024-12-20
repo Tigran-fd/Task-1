@@ -1,2 +1,2 @@
-Freedom Astronomy practical tasks repository.
-completed first task.
+# Freedom Astronomy practical tasks repository.
+<br> completed first task.
