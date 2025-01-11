@@ -1,2 +1,2 @@
 # Freedom Astronomy practical tasks repository.
-<br> completed first task.
+<br> H.Tigran intern repository for Freedom Astronomy practical tasks.
