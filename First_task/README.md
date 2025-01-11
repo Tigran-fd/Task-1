@@ -1,1 +1,1 @@
-# Comlited first task for filtering stars.
+# Complited first task for filtering stars.
