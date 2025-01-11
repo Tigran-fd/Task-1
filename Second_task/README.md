@@ -1,1 +1,1 @@
-# Comlited second task for finding moon ra,dec.
+# Complited second task for finding moon ra,dec.
