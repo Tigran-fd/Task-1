@@ -1,2 +1,1 @@
-# Freedom Astronomy practical tasks repository.
-<br> H.Tigran intern repository for Freedom Astronomy practical tasks.
+This project filters the given data of stars by columns and field of view (FOV), then sorts it by brightness.

@@ -1,1 +1,0 @@
-# Comlited first task for filtering stars.
